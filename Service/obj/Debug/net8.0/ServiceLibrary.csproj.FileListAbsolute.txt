@@ -1,0 +1,15 @@
+C:\Users\suser\source\repos\ConsoleApplication\Service\bin\Debug\net8.0\ServiceLibrary.deps.json
+C:\Users\suser\source\repos\ConsoleApplication\Service\bin\Debug\net8.0\ServiceLibrary.dll
+C:\Users\suser\source\repos\ConsoleApplication\Service\bin\Debug\net8.0\ServiceLibrary.pdb
+C:\Users\suser\source\repos\ConsoleApplication\Service\bin\Debug\net8.0\RepositoryLibrary.dll
+C:\Users\suser\source\repos\ConsoleApplication\Service\bin\Debug\net8.0\RepositoryLibrary.pdb
+C:\Users\suser\source\repos\ConsoleApplication\Service\obj\Debug\net8.0\ServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\suser\source\repos\ConsoleApplication\Service\obj\Debug\net8.0\ServiceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suser\source\repos\ConsoleApplication\Service\obj\Debug\net8.0\ServiceLibrary.AssemblyInfoInputs.cache
+C:\Users\suser\source\repos\ConsoleApplication\Service\obj\Debug\net8.0\ServiceLibrary.AssemblyInfo.cs
+C:\Users\suser\source\repos\ConsoleApplication\Service\obj\Debug\net8.0\ServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\suser\source\repos\ConsoleApplication\Service\obj\Debug\net8.0\ServiceL.AECBB873.Up2Date
+C:\Users\suser\source\repos\ConsoleApplication\Service\obj\Debug\net8.0\ServiceLibrary.dll
+C:\Users\suser\source\repos\ConsoleApplication\Service\obj\Debug\net8.0\refint\ServiceLibrary.dll
+C:\Users\suser\source\repos\ConsoleApplication\Service\obj\Debug\net8.0\ServiceLibrary.pdb
+C:\Users\suser\source\repos\ConsoleApplication\Service\obj\Debug\net8.0\ref\ServiceLibrary.dll

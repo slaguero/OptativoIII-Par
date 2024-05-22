@@ -1,0 +1,12 @@
+C:\Users\suser\source\repos\ConsoleApplication\Repository\bin\Debug\net8.0\RepositoryLibrary.deps.json
+C:\Users\suser\source\repos\ConsoleApplication\Repository\bin\Debug\net8.0\RepositoryLibrary.dll
+C:\Users\suser\source\repos\ConsoleApplication\Repository\bin\Debug\net8.0\RepositoryLibrary.pdb
+C:\Users\suser\source\repos\ConsoleApplication\Repository\obj\Debug\net8.0\RepositoryLibrary.csproj.AssemblyReference.cache
+C:\Users\suser\source\repos\ConsoleApplication\Repository\obj\Debug\net8.0\RepositoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suser\source\repos\ConsoleApplication\Repository\obj\Debug\net8.0\RepositoryLibrary.AssemblyInfoInputs.cache
+C:\Users\suser\source\repos\ConsoleApplication\Repository\obj\Debug\net8.0\RepositoryLibrary.AssemblyInfo.cs
+C:\Users\suser\source\repos\ConsoleApplication\Repository\obj\Debug\net8.0\RepositoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\suser\source\repos\ConsoleApplication\Repository\obj\Debug\net8.0\RepositoryLibrary.dll
+C:\Users\suser\source\repos\ConsoleApplication\Repository\obj\Debug\net8.0\refint\RepositoryLibrary.dll
+C:\Users\suser\source\repos\ConsoleApplication\Repository\obj\Debug\net8.0\RepositoryLibrary.pdb
+C:\Users\suser\source\repos\ConsoleApplication\Repository\obj\Debug\net8.0\ref\RepositoryLibrary.dll
