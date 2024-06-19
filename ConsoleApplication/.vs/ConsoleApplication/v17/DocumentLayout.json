@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\models\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\models\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\repositories\\detallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\repositories\\detallefacturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\repositories\\facturarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\repositories\\sucursalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\repositories\\sucursalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C5B24-3BD7-49E9-99DD-D0A970061E6D}|Service\\ServiceLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\service\\services\\sucursalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3C5B24-3BD7-49E9-99DD-D0A970061E6D}|Service\\ServiceLibrary.csproj|solutionrelative:service\\services\\sucursalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C5B24-3BD7-49E9-99DD-D0A970061E6D}|Service\\ServiceLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\service\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3C5B24-3BD7-49E9-99DD-D0A970061E6D}|Service\\ServiceLibrary.csproj|solutionrelative:service\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C5B24-3BD7-49E9-99DD-D0A970061E6D}|Service\\ServiceLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\service\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3C5B24-3BD7-49E9-99DD-D0A970061E6D}|Service\\ServiceLibrary.csproj|solutionrelative:service\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49CE476-D85D-4962-91ED-C0009D47A40D}|ConsoleApplication\\ConsoleApplication.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49CE476-D85D-4962-91ED-C0009D47A40D}|ConsoleApplication\\ConsoleApplication.csproj|solutionrelative:consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C5B24-3BD7-49E9-99DD-D0A970061E6D}|Service\\ServiceLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\service\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3C5B24-3BD7-49E9-99DD-D0A970061E6D}|Service\\ServiceLibrary.csproj|solutionrelative:service\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F3C5B24-3BD7-49E9-99DD-D0A970061E6D}|Service\\ServiceLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\service\\servicelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F3C5B24-3BD7-49E9-99DD-D0A970061E6D}|Service\\ServiceLibrary.csproj|solutionrelative:service\\servicelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E49CE476-D85D-4962-91ED-C0009D47A40D}|ConsoleApplication\\ConsoleApplication.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\consoleapplication\\consoleapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E49CE476-D85D-4962-91ED-C0009D47A40D}|ConsoleApplication\\ConsoleApplication.csproj|solutionrelative:consoleapplication\\consoleapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|c:\\users\\home\\downloads\\tercerparcial\\consoleapplication\\repository\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{969E02B7-0820-401A-BFB4-40AE2072B2B8}|Repository\\RepositoryLibrary.csproj|solutionrelative:repository\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Repositories\\FacturaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\FacturaRepository.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Repositories\\FacturaRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\FacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:17:39.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SucursalService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Service\\Services\\SucursalService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SucursalService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Service\\Services\\SucursalService.cs",
+              "RelativeToolTip": "Service\\Services\\SucursalService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:08:58.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SucursalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Repositories\\SucursalRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\SucursalRepository.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Repositories\\SucursalRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\SucursalRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwCsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:04:34.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:58:49.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleFacturaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Repositories\\DetalleFacturaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\DetalleFacturaRepository.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Repositories\\DetalleFacturaRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\DetalleFacturaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:59:20.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:20:49.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Models\\Producto.cs",
+              "RelativeToolTip": "Repository\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:58:33.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Models\\Sucursal.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Models\\Sucursal.cs",
+              "RelativeToolTip": "Repository\\Models\\Sucursal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:03:55.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "Repository\\Models\\DetalleFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:59:07.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Models\\Cliente.cs",
+              "RelativeToolTip": "Repository\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:20:59.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Service\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Service\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Service\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:21:16.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Service\\Services\\FacturaService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Service\\Services\\FacturaService.cs",
+              "RelativeToolTip": "Service\\Services\\FacturaService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:18:46.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\ConsoleApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\ConsoleApplication\\Program.cs",
+              "RelativeToolTip": "ConsoleApplication\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:58:12.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Service\\ServiceLibrary.csproj",
+              "RelativeDocumentMoniker": "Service\\ServiceLibrary.csproj",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Service\\ServiceLibrary.csproj",
+              "RelativeToolTip": "Service\\ServiceLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T22:03:38.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\Models\\Factura.cs",
+              "RelativeToolTip": "Repository\\Models\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:17:51.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Service\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Service\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Service\\Services\\ProductoService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:06:55.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsoleApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj",
+              "RelativeDocumentMoniker": "ConsoleApplication\\ConsoleApplication.csproj",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\ConsoleApplication\\ConsoleApplication.csproj",
+              "RelativeToolTip": "ConsoleApplication\\ConsoleApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T22:01:41.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Repository\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\HOME\\Downloads\\TercerParcial\\ConsoleApplication\\Repository\\DatabaseConnection.cs",
+              "RelativeToolTip": "Repository\\DatabaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:58:54.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
